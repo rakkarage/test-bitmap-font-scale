@@ -2,7 +2,7 @@
 
 importer="font_data_bmfont"
 type="FontFile"
-uid="uid://bn2nxiytfv00k"
+uid="uid://bp8najkan8unl"
 path="res://.godot/imported/SuperBlack.fnt-a5e06c2fbcf3357c3aea078219857d41.fontdata"
 
 [deps]
@@ -14,4 +14,4 @@ dest_files=["res://.godot/imported/SuperBlack.fnt-a5e06c2fbcf3357c3aea078219857d
 
 fallbacks=[]
 compress=true
-scaling_mode=2
+scaling_mode=0

@@ -2,7 +2,7 @@
 
 importer="font_data_bmfont"
 type="FontFile"
-uid="uid://vxvgk6iccvf3"
+uid="uid://cyrkdfal6qpi"
 path="res://.godot/imported/SuperWhite.fnt-8d921d0ab59f5d6abf25c1cdb32d91a1.fontdata"
 
 [deps]
@@ -14,4 +14,4 @@ dest_files=["res://.godot/imported/SuperWhite.fnt-8d921d0ab59f5d6abf25c1cdb32d91
 
 fallbacks=[]
 compress=true
-scaling_mode=2
+scaling_mode=0
